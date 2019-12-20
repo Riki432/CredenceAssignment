@@ -1,0 +1,29 @@
+{
+  "name": "credence_assignment",
+  "version": "1.0.0",
+  "description": "The assignment which is supposed to give me the internship at Credence Analytics.",
+  "main": "index.js",
+  "scripts": {
+    "test": "console.log(\"Hello world\");"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Riki432/CredenceAssignment.git"
+  },
+  "keywords": [
+    "Credence"
+  ],
+  "author": "Rahul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Riki432/CredenceAssignment/issues"
+  },
+  "homepage": "https://github.com/Riki432/CredenceAssignment#readme",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "handlebars": "^4.5.3"
+  }
+}
